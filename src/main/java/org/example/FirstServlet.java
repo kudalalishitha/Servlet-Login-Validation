@@ -19,7 +19,7 @@ public class FirstServlet extends HttpServlet {
         response.setContentType("text/html");
 
         PrintWriter out = response.getWriter();
-        out.println("<h2>Hello World! My First Servlet is Working ✅</h2>");
+        out.println("<h2>Hello World! My First Servlet is Working </h2>");
         out.close();
     }
 }
