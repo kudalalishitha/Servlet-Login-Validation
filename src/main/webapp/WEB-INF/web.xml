@@ -6,6 +6,7 @@
          version="4.0">
 
     <display-name>FirstServlet</display-name>
+    <!-- Web deployment descriptor -->
 
     <welcome-file-list>
         <welcome-file>index.jsp</welcome-file>
